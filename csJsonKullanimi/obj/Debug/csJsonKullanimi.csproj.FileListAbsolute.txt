@@ -1,0 +1,8 @@
+c:\users\kyle\documents\visual studio 2015\Projects\csJsonKullanimi\csJsonKullanimi\bin\Debug\csJsonKullanimi.exe
+c:\users\kyle\documents\visual studio 2015\Projects\csJsonKullanimi\csJsonKullanimi\bin\Debug\csJsonKullanimi.pdb
+c:\users\kyle\documents\visual studio 2015\Projects\csJsonKullanimi\csJsonKullanimi\bin\Debug\Newtonsoft.Json.dll
+c:\users\kyle\documents\visual studio 2015\Projects\csJsonKullanimi\csJsonKullanimi\bin\Debug\Newtonsoft.Json.xml
+c:\users\kyle\documents\visual studio 2015\Projects\csJsonKullanimi\csJsonKullanimi\obj\Debug\csJsonKullanimi.csprojResolveAssemblyReference.cache
+c:\users\kyle\documents\visual studio 2015\Projects\csJsonKullanimi\csJsonKullanimi\obj\Debug\csJsonKullanimi.exe
+c:\users\kyle\documents\visual studio 2015\Projects\csJsonKullanimi\csJsonKullanimi\obj\Debug\csJsonKullanimi.pdb
+C:\Users\Kyle\Documents\Visual Studio 2015\Projects\csJsonKullanimi\csJsonKullanimi\bin\Debug\csJsonKullanimi.exe.config
